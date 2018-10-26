@@ -19,7 +19,7 @@ $ yarn start
 $ yarn build
 ```
 
-`./dist` 内のファイルが変換されたものが `.vuepress/dist` 下に生成されますｊ。
+`./dist` 内のファイルが変換されたものが `.vuepress/dist` 下に生成されます。
 
 ---
 
