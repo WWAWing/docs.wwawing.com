@@ -4,7 +4,7 @@
 set -e
 
 # build
-npm run docs:build
+yarn build
 
 # navigate into the build output directory
 cd docs/.vuepress/dist
@@ -12,7 +12,7 @@ cd docs/.vuepress/dist
 # if you are deploying to a custom domain
 echo 'docs.wwawing.com' > CNAME
 
-git init
+# git init
 git add -A
 git commit -m 'deploy'
 
