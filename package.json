@@ -8,8 +8,8 @@
   "license": "CC-BY-4.0",
   "private": true,
   "scripts": {
-    "start": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "start": "vuepress dev src -d docs",
+    "build": "vuepress build src -d docs"
   },
   "dependencies": {
     "vuepress": "^0.14.4"
