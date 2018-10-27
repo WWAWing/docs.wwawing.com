@@ -1,3 +1,8 @@
+---toml
+title = "WWA Wing公式ドキュメント予定地"
+lang = "ja"
+---
+
 # docs.wwawing.com
 [WWA Wing](https://wwawing.com/) 公式ドキュメント予定地
 
