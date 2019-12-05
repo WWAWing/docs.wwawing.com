@@ -12,6 +12,6 @@
     "build": "vuepress build src -d docs"
   },
   "dependencies": {
-    "vuepress": "^0.14.4"
+    "vuepress": "^1.2.0"
   }
 }
